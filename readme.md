@@ -18,10 +18,10 @@ There are a lot of great security challenges on the Internet, but it's hard to k
 
 ## CTF
 
-About this section. Optional. Keep this short and focus on the list.
+This is a list of [Capture The Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security) challenges and websites.
 
 - [flAWS](http://flaws.cloud/) - a CTF site based on common mistakes and gotchas when using Amazon Web Services (AWS).
-- [HackTheBox] (https://www.hackthebox.eu/) - a CTF site to work on your pentesting skills.
+- [HackTheBox](https://www.hackthebox.eu/) - a CTF site to work on your pentesting skills.
 - [HackThisSite](https://www.hackthissite.org/) - a CTF site to practice your ethical hacking skills.
 - [OverTheWire](https://overthewire.org/wargames/) - a series of CTFs to practice security concepts in the form of fun-filled games.
 - [Thunder CTF](https://thunder-ctf.cloud/) - a CTF site based on attacking vulnerable cloud projects on Google Cloud Platform (GCP).
@@ -29,7 +29,6 @@ About this section. Optional. Keep this short and focus on the list.
 
 ## Crypto
 
-### Subsection
+This is a list of challenges that teach you about cryptography, cryptosystems, and breaking widely used encryption schemes which are sometimes improperly implemented.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Cryptopals](https://cryptopals.com/) a site where you learn about cryptography through problem-solving challenges and programming.
