@@ -31,4 +31,4 @@ There are a lot of great security challenges on the Internet, but it's hard to k
 
 *This is a list of challenges that teach you about cryptography, cryptosystems, and breaking widely used encryption schemes which are sometimes improperly implemented.*
 
-- [Cryptopals](https://cryptopals.com/) - a site where you learn about cryptography through problem-solving challenges and programming.
+- [Cryptopals](https://cryptopals.com/) - a site to learn about cryptography through problem-solving and programming.
