@@ -13,7 +13,6 @@ Ensure your pull request adheres to the following guidelines:
 - List items should be sorted *alphabetically*.
 - Each item should be limited to one link
 - The link should be the name of the package or project
-- Direct installation commands should follow on the next line, indented by 2 spaces and enclosed in \`\`
 - Descriptions should be clear, concise, and non-promotional
 - Descriptions should follow the link, on the same line
 
