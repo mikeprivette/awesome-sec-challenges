@@ -15,7 +15,6 @@ There are a lot of great security challenges on the Internet, but it's hard to k
 - [Capture the Flag (CTF)](#ctf)
 - [Crypto Challenges](#crypto)
 
-
 ## CTF
 
 *This is a list of [Capture The Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security) challenges and websites.*
@@ -25,7 +24,6 @@ There are a lot of great security challenges on the Internet, but it's hard to k
 - [HackThisSite](https://www.hackthissite.org/) - a CTF site to practice your ethical hacking skills.
 - [OverTheWire](https://overthewire.org/wargames/) - a series of CTFs to practice security concepts in the form of fun-filled games.
 - [Thunder CTF](https://thunder-ctf.cloud/) - a CTF site based on attacking vulnerable cloud projects on Google Cloud Platform (GCP).
-
 
 ## Crypto
 
