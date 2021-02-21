@@ -28,7 +28,6 @@ To stay on the list, package repositories should adhere to these quality standar
 
 Please open an issue if you find anything that could be improved or have suggestions for making the list a more valuable resource. Thanks!
 
-
 ## Updating your PR
 
 A lot of times, making a PR adhere to the standards above can be difficult.
