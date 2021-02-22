@@ -2,16 +2,18 @@
 
 A curated list of Awesome Security Challenges that is aimed at getting beginners and experts alike involved in upskilling their ethical hacking, pentesting, and crypto skill through online challenges.
 
+There are a lot of great security challenges on the Internet, but it's hard to keep track of them all or work on different types of challenges. This list helps keep all those scattered platforms in one place.
+
+If you'd like to contribute, please see the [contribution guidelines](contributing.md).
+
 ## Contents
 
-- [Awesome Sec Challenges](#awesome-sec-challenges-)
+- [Awesome Sec Challenges](#awesome-sec-challenges)
   - [Contents](#contents)
   - [Capture The Flag](#capture-the-flag)
     - [Cloud-Focused](#cloud-focused)
     - [Traditional](#traditional)
   - [Crypto](#crypto)
-  - [Contributing](#contributing)
-  - [Let's Talk About Why](#lets-talk-about-why)
 
 ## Capture The Flag
 
@@ -33,11 +35,3 @@ A curated list of Awesome Security Challenges that is aimed at getting beginners
 *This is a list of challenges that teach you about cryptography, cryptosystems, and breaking widely used encryption schemes which are sometimes improperly implemented.*
 
 - [Cryptopals](https://cryptopals.com/) - A site to learn about cryptography through problem-solving and programming.
-
-## Contributing
-
-Please take a quick look at the [contribution guidelines](contributing.md) first.
-
-## Let's Talk About Why
-
-There are a lot of great security challenges on the Internet, but it's hard to keep track of them all or work on different types of challenges. This list helps keep all those scattered platforms in one place.
