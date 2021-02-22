@@ -27,9 +27,10 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 
 ### CTF Platforms
 
-*This is a list of platforms that let you organize, host, and participate in competitive CTF events.*
+*This is a list of platforms that let you organize, host, and participate in competitive CTF events or platforms that let you do gamified security challenges*
 
 - [Facebook CTF](https://github.com/facebookarchive/fbctf) - A CTF platform by Facebook to host Jeopardy and “King of the Hill” style Capture the Flag competitions.
+- [TryHackMe](https://tryhackme.com/) - An online CTF platform that teaches you about hacking and pentesting by way of gamified challenges.
 
 ### Traditional
 
