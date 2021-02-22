@@ -2,15 +2,15 @@
 
 A curated list of Awesome Security Challenges that is aimed at getting beginners and experts alike involved in upskilling their ethical hacking, pentesting, and crypto skill through online challenges.
 
-### Contributing
+## Contributing
 
 Please take a quick look at the [contribution guidelines](contributing.md) first.
 
-### Why Make This List?
+## Let's Talk About Why
 
 There are a lot of great security challenges on the Internet, but it's hard to keep track of them all or work on different types of challenges. This list helps keep all those scattered platforms in one place.
 
-### Contents
+## Contents
 
 - [Capture the Flag (CTF)](#ctf)
   - [Cloud-Focused](#cloud-focused)
@@ -21,13 +21,16 @@ There are a lot of great security challenges on the Internet, but it's hard to k
 
 *This is a list of [Capture The Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security) challenges and websites.*
 
-- Cloud-Focused
-  - [flAWS](http://flaws.cloud/) - A CTF site based on common mistakes and gotchas when using Amazon Web Services (AWS).
-  - [Thunder CTF](https://thunder-ctf.cloud/) - A CTF site based on attacking vulnerable cloud projects on Google Cloud Platform (GCP).
-- Traditional
-  - [HackTheBox](https://www.hackthebox.eu/) - A CTF site to work on your pentesting skills.
-  - [HackThisSite](https://www.hackthissite.org/) - A CTF site to practice your ethical hacking skills.
-  - [OverTheWire](https://overthewire.org/wargames/) - A series of CTFs to practice security concepts in the form of fun-filled games.
+### Cloud-Focused
+
+- [flAWS](http://flaws.cloud/) - A CTF site based on common mistakes and gotchas when using Amazon Web Services (AWS).
+- [Thunder CTF](https://thunder-ctf.cloud/) - A CTF site based on attacking vulnerable cloud projects on Google Cloud Platform (GCP).
+
+### Traditional
+
+- [HackTheBox](https://www.hackthebox.eu/) - A CTF site to work on your pentesting skills.
+- [HackThisSite](https://www.hackthissite.org/) - A CTF site to practice your ethical hacking skills.
+- [OverTheWire](https://overthewire.org/wargames/) - A series of CTFs to practice security concepts in the form of fun-filled games.
 
 ## Crypto
 
