@@ -12,6 +12,7 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
   - [Contents](#contents)
   - [Capture The Flag](#capture-the-flag)
     - [Cloud-Focused](#cloud-focused)
+    - [CTF Platforms](#ctf-platforms)
     - [Traditional](#traditional)
   - [Crypto](#crypto)
 
@@ -23,6 +24,12 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 
 - [FLAWS](http://flaws.cloud/) - A CTF site based on common mistakes and gotchas when using Amazon Web Services (AWS).
 - [Thunder CTF](https://thunder-ctf.cloud/) - A CTF site based on attacking vulnerable cloud projects on Google Cloud Platform (GCP).
+
+### CTF Platforms
+
+*This is a list of platforms that let you organize, host, and participate in competitive CTF events.*
+
+- [Facebook CTF](https://github.com/facebookarchive/fbctf) - A CTF platform by Facebook to host Jeopardy and “King of the Hill” style Capture the Flag competitions.
 
 ### Traditional
 
