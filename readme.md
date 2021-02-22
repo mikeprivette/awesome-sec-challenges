@@ -4,18 +4,18 @@ A curated list of Awesome Security Challenges that is aimed at getting beginners
 
 ## Contents
 
-- [Awesome Sec Challenges](#awesome-sec-challenges-)
+- [Awesome Sec Challenges ![Awesome](https://awesome.re)](#awesome-sec-challenges-)
   - [Contents](#contents)
-  - [Capture The Flag (CTF)](#capture-the-flag-ctf)
+  - [Capture The Flag](#capture-the-flag)
     - [Cloud-Focused](#cloud-focused)
     - [Traditional](#traditional)
   - [Crypto](#crypto)
   - [Contributing](#contributing)
   - [Let's Talk About Why](#lets-talk-about-why)
 
-## Capture The Flag (CTF)
+## Capture The Flag
 
-*This is a list of [Capture The Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security) challenges and websites.*
+*This is a list of [Capture The Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security) (CTF) challenges and websites.*
 
 ### Cloud-Focused
 
