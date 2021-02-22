@@ -2,6 +2,19 @@
 
 A curated list of Awesome Security Challenges that is aimed at getting beginners and experts alike involved in upskilling their ethical hacking, pentesting, and crypto skill through online challenges.
 
+## Contents
+
+- [Capture the Flag (CTF)](#ctf)
+  - [Cloud-Focused](#cloud-focused)
+  - [Traditional](#traditional)
+  - [Contents](#contents)
+  - [Contributing](#contributing)
+  - [Let's Talk About Why](#lets-talk-about-why)
+  - [Capture The Flag (CTF)](#capture-the-flag-ctf)
+    - [Cloud-Focused](#cloud-focused)
+    - [Traditional](#traditional)
+  - [Crypto](#crypto)
+
 ## Contributing
 
 Please take a quick look at the [contribution guidelines](contributing.md) first.
@@ -10,14 +23,7 @@ Please take a quick look at the [contribution guidelines](contributing.md) first
 
 There are a lot of great security challenges on the Internet, but it's hard to keep track of them all or work on different types of challenges. This list helps keep all those scattered platforms in one place.
 
-## Contents
-
-- [Capture the Flag (CTF)](#ctf)
-  - [Cloud-Focused](#cloud-focused)
-  - [Traditional](#traditional)
-- [Crypto Challenges](#crypto)
-
-## CTF
+## Capture The Flag (CTF)
 
 *This is a list of [Capture The Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security) challenges and websites.*
 
