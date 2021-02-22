@@ -8,3 +8,8 @@ jspm_packages/
 # Output of 'npm pack'
 *.tgz
 
+#JSON
+*.yo-rc.json
+
+# VSCode Files
+*.vscode
