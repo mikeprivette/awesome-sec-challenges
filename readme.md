@@ -4,7 +4,7 @@ A curated list of Awesome Security Challenges that is aimed at getting beginners
 
 ## Contents
 
-- [Awesome Sec Challenges ![Awesome](https://awesome.re)](#awesome-sec-challenges-)
+- [Awesome Sec Challenges](#awesome-sec-challenges-)
   - [Contents](#contents)
   - [Capture The Flag](#capture-the-flag)
     - [Cloud-Focused](#cloud-focused)
