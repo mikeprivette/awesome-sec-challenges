@@ -13,8 +13,8 @@ There are a lot of great security challenges on the Internet, but it's hard to k
 ### Contents
 
 - [Capture the Flag (CTF)](#ctf)
-  - Cloud-Focused (#cloud-focused)
-  - Traditional (#traditional)
+  - [Cloud-Focused](#cloud-focused)
+  - [Traditional](#traditional)
 - [Crypto Challenges](#crypto)
 
 ## CTF
