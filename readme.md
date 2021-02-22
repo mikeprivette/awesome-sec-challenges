@@ -28,6 +28,11 @@ There are a lot of great security challenges on the Internet, but it's hard to k
   - [HackTheBox](https://www.hackthebox.eu/) - A CTF site to work on your pentesting skills.
   - [HackThisSite](https://www.hackthissite.org/) - A CTF site to practice your ethical hacking skills.
   - [OverTheWire](https://overthewire.org/wargames/) - A series of CTFs to practice security concepts in the form of fun-filled games.
+- [FlAWS](http://flaws.cloud/) - a CTF site based on common mistakes and gotchas when using Amazon Web Services (AWS).
+- [HackTheBox](https://www.hackthebox.eu/) - a CTF site to work on your pentesting skills.
+- [HackThisSite](https://www.hackthissite.org/) - a CTF site to practice your ethical hacking skills.
+- [OverTheWire](https://overthewire.org/wargames/) - a series of CTFs to practice security concepts in the form of fun-filled games.
+- [Thunder CTF](https://thunder-ctf.cloud/) - a CTF site based on attacking vulnerable cloud projects on Google Cloud Platform (GCP).
 
 ## Crypto
 
