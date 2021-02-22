@@ -30,11 +30,11 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 *This is a list of platforms that let you organize, host, and participate in competitive CTF events or platforms that let you do gamified security challenges*
 
 - [Facebook CTF](https://github.com/facebookarchive/fbctf) - A CTF platform by Facebook to host Jeopardy and “King of the Hill” style Capture the Flag competitions.
+- [HackTheBox](https://www.hackthebox.eu/) - A CTF site to work on your pentesting skills.
 - [TryHackMe](https://tryhackme.com/) - An online CTF platform that teaches you about hacking and pentesting by way of gamified challenges.
 
 ### Traditional
 
-- [HackTheBox](https://www.hackthebox.eu/) - A CTF site to work on your pentesting skills.
 - [HackThisSite](https://www.hackthissite.org/) - A CTF site to practice your ethical hacking skills.
 - [OverTheWire](https://overthewire.org/wargames/) - A series of CTFs to practice security concepts in the form of fun-filled games.
 
