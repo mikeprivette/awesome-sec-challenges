@@ -32,7 +32,7 @@ A curated list of Awesome Security Challenges that is aimed at getting beginners
 
 *This is a list of challenges that teach you about cryptography, cryptosystems, and breaking widely used encryption schemes which are sometimes improperly implemented.*
 
-- [Cryptopals](https://cryptopals.com/) - a site to learn about cryptography through problem-solving and programming.
+- [Cryptopals](https://cryptopals.com/) - A site to learn about cryptography through problem-solving and programming.
 
 ## Contributing
 
