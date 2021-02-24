@@ -25,6 +25,7 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 *This is a list of CTF challenges that specifically focus on exploiting cloud services.*
 
 - [FLAWS](http://flaws.cloud/) - A CTF site based on common mistakes and gotchas when using Amazon Web Services (AWS).
+- [FLAWS2](http://flaws2.cloud/) - The sequel to the flAWS.cloud CTF site with both an Attacker and Defender track using Amazon Web Services (AWS).
 - [Thunder CTF](https://thunder-ctf.cloud/) - A CTF site based on attacking vulnerable cloud projects on Google Cloud Platform (GCP).
 
 ### CTF Platforms
