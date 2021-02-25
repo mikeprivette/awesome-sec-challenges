@@ -16,11 +16,11 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
       - [Traditional](#traditional)
     - [Crypto](#crypto)
 
-### Capture The Flag
+## Capture The Flag
 
 *This is a list of [Capture The Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security) (CTF) challenges and websites.*
 
-#### Cloud-Focused
+### Cloud-Focused
 
 *This is a list of CTF challenges that specifically focus on exploiting cloud services.*
 
@@ -28,7 +28,7 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 - [FLAWS2](http://flaws2.cloud/) - The sequel to the flAWS.cloud CTF site with both an Attacker and Defender track using Amazon Web Services (AWS).
 - [Thunder CTF](https://thunder-ctf.cloud/) - A CTF site based on attacking vulnerable cloud projects on Google Cloud Platform (GCP).
 
-#### CTF Platforms
+### CTF Platforms
 
 *This is a list of platforms that let you organize, host, and participate in competitive CTF events or platforms that let you do gamified security challenges.*
 
@@ -36,14 +36,14 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 - [HackTheBox](https://www.hackthebox.eu/) - A CTF site to work on your pentesting skills.
 - [TryHackMe](https://tryhackme.com/) - An online CTF platform that teaches you about hacking and pentesting by way of gamified challenges.
 
-#### Traditional
+### Traditional
 
 *This is a list of traditional CTF challenges that leverage mostly SSH or VPN sessions to play.*
 
 - [HackThisSite](https://www.hackthissite.org/) - A CTF site to practice your ethical hacking skills.
 - [OverTheWire](https://overthewire.org/wargames/) - A series of CTFs to practice security concepts in the form of fun-filled games.
 
-### Crypto
+## Crypto
 
 *This is a list of challenges that teach you about cryptography, cryptosystems, and breaking widely used encryption schemes which are sometimes improperly implemented.*
 
