@@ -8,7 +8,7 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 
 ## Contents
 
-- [Awesome Sec Challenges](#awesome-sec-challenges)
+- [Awesome Sec Challenges](#awesome-sec-challenges-)
   - [Contents](#contents)
   - [Capture The Flag](#capture-the-flag)
     - [Cloud-Focused](#cloud-focused)
