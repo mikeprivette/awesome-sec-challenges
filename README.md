@@ -1,6 +1,4 @@
-# Awesome Sec Challenges
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Sec Challenges [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of Awesome Security Challenges that is aimed at getting beginners and experts alike involved in upskilling their ethical hacking, pentesting, and crypto skill through online challenges.
 
