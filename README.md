@@ -20,6 +20,10 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 
 *This is a list of [Capture The Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security) (CTF) challenges and websites.*
 
+- [Cloud-Focused](#cloud-focused)
+- [CTF Platforms](#ctf-platforms)
+- [Traditional](#traditional)
+
 ### Cloud-Focused
 
 *This is a list of CTF challenges that specifically focus on exploiting cloud services.*
