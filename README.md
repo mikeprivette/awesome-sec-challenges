@@ -12,6 +12,7 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
   - [Cloud-Focused](#cloud-focused)
   - [CTF Platforms](#ctf-platforms)
   - [Traditional](#traditional)
+  - [Vulnerable Platforms](#vulnerable-platforms)
 - [Crypto](#crypto)
 
 ## Capture The Flag
@@ -41,6 +42,13 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 
 - [HackThisSite](https://www.hackthissite.org/) - A CTF site to practice your ethical hacking skills.
 - [OverTheWire](https://overthewire.org/wargames/) - A series of CTFs to practice security concepts in the form of fun-filled games.
+
+### Vulnerable Platforms
+
+*This is a list of pre-packaged applications and platforms with intentional misconfigurations and vulnerabilities present.*
+
+- [Damn Vulnerable Linux](https://www.vulnhub.com/series/damn-vulnerable-linux-dvl,1/) - A vulnerable Linux distribution designed to help sysadmins to better understand securing Linux.
+- [Damn Vulnerable Web App](https://dvwa.co.uk/) - A vulnerable PHP/MySQL web application designed to help web developers better understand securing web apps.
 
 ## Crypto
 
