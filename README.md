@@ -57,3 +57,4 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 
 - [Cryptopals](https://cryptopals.com/) - A site to learn about cryptography through problem-solving and programming.
 - [CryptoHack](https://cryptohack.org/) - A free platform for learning modern cryptography.
+- [MysteryTwister C3](https://www.mysterytwisterc3.org/en/) - A variety of tasks and riddles (challenges) at four levels of difficulty.
