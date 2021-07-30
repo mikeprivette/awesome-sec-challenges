@@ -56,3 +56,4 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 *This is a list of challenges that teach you about cryptography, cryptosystems, and breaking widely used encryption schemes which are sometimes improperly implemented.*
 
 - [Cryptopals](https://cryptopals.com/) - A site to learn about cryptography through problem-solving and programming.
+- [CryptoHack](https://cryptohack.org/) - A free platform for learning modern cryptography.
