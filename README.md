@@ -27,6 +27,7 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 - [GCP Goat](https://gcpgoat.joshuajebaraj.com/index.html) - An intentionally vulnerable GCP environment to learn and practice GCP security.
 - [FLAWS](http://flaws.cloud/) - A CTF site based on common mistakes and gotchas when using Amazon Web Services (AWS).
 - [FLAWS2](http://flaws2.cloud/) - The sequel to the flAWS.cloud CTF site with both an Attacker and Defender track using Amazon Web Services (AWS).
+- [S3 CTF Challenges](https://n0j.github.io/2017/10/02/aws-s3-ctf.html) - A series of challenges focusing on Amazon Web Services (AWS) S3 misconfigurations.
 - [ServerlessGoat](https://github.com/OWASP/Serverless-Goat) - An Amazon Web Services (AWS) severless application that demonstrates common serverless security flaws.
 - [Thunder CTF](https://thunder-ctf.cloud/) - A CTF site based on attacking vulnerable cloud projects on Google Cloud Platform (GCP).
 
