@@ -23,7 +23,9 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 
 *This is a list of CTF challenges that specifically focus on exploiting cloud services.*
 
+- [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat) - A vulnerable by design AWS deployment tool.
 - [CONVEX](https://github.com/Azure/CONVEX) - An open-source CTF platform that lets you spin up CTF events in your Microsoft Azure environment.
+- [Damn Vulnerable Cloud Application](https://github.com/m6a-UdS/dvca) - an intentionally vulnerable cloud application to teach privilege escalation on Amazon Web Services (AWS).
 - [GCP Goat](https://gcpgoat.joshuajebaraj.com/index.html) - An intentionally vulnerable GCP environment to learn and practice GCP security.
 - [FLAWS](http://flaws.cloud/) - A CTF site based on common mistakes and gotchas when using Amazon Web Services (AWS).
 - [FLAWS2](http://flaws2.cloud/) - The sequel to the flAWS.cloud CTF site with both an Attacker and Defender track using Amazon Web Services (AWS).
