@@ -27,6 +27,7 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 - [GCP Goat](https://gcpgoat.joshuajebaraj.com/index.html) - An intentionally vulnerable GCP environment to learn and practice GCP security.
 - [FLAWS](http://flaws.cloud/) - A CTF site based on common mistakes and gotchas when using Amazon Web Services (AWS).
 - [FLAWS2](http://flaws2.cloud/) - The sequel to the flAWS.cloud CTF site with both an Attacker and Defender track using Amazon Web Services (AWS).
+- [ServerlessGoat](https://github.com/OWASP/Serverless-Goat) - An Amazon Web Services (AWS) severless application that demonstrates common serverless security flaws.
 - [Thunder CTF](https://thunder-ctf.cloud/) - A CTF site based on attacking vulnerable cloud projects on Google Cloud Platform (GCP).
 
 ### CTF Platforms
@@ -50,7 +51,7 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 
 - [Damn Vulnerable Linux](https://www.vulnhub.com/series/damn-vulnerable-linux-dvl,1/) - A vulnerable Linux distribution designed to help sysadmins to better understand securing Linux.
 - [Damn Vulnerable Web App](https://dvwa.co.uk/) - A vulnerable PHP/MySQL web application designed to help web developers better understand securing web apps.
-- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) - An insecure web application written in Node.js that is vulnerable to the [OWASP Top 10](https://owasp.org/www-project-top-ten/) web application security risks and other real-world vulnerabilities. 
+- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) - An insecure web application written in Node.js that is vulnerable to the [OWASP Top 10](https://owasp.org/www-project-top-ten/) web application security risks and other real-world vulnerabilities.
 
 ## Crypto
 
