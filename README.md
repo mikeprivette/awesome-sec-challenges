@@ -69,6 +69,7 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 
 ## Web 3
 
-*This is a list of challenges that teach you about secure Web3 (smart contracts, blockchain, solidity, etc.) practices.*
+*This is a list of challenges that teach you about secure Web3 (smart contracts, DeFi, blockchain, solidity, etc.) practices.*
 
 - [DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs) - A site to learn about Web3 solidity security training on Foundry.
+- [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - A site that uses real past DeFi hack incidents to let you recreate how the hacks happened and how to secure them.
