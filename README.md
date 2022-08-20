@@ -13,7 +13,8 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
   - [CTF Platforms](#ctf-platforms)
   - [Traditional](#traditional)
   - [Vulnerable Platforms](#vulnerable-platforms)
-- [Crypto](#crypto)
+- [Cryptography](#crypto)
+- [Web3](#Web3)
 
 ## Capture The Flag
 
@@ -65,3 +66,9 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 - [Cryptopals](https://cryptopals.com/) - A site to learn about cryptography through problem-solving and programming.
 - [CryptoHack](https://cryptohack.org/) - A free platform for learning modern cryptography.
 - [MysteryTwister C3](https://www.mysterytwisterc3.org/en/) - A variety of tasks and riddles (challenges) at four levels of difficulty.
+
+## Web 3
+
+*This is a list of challenges that teach you about secure Web3 (smart contracts, blockchain, solidity, etc.) practices.*
+
+- [DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs) - A site to learn about Web3 solidity security training on Foundry.
