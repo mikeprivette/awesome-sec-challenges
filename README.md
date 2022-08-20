@@ -14,7 +14,7 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
   - [Traditional](#traditional)
   - [Vulnerable Platforms](#vulnerable-platforms)
 - [Cryptography](#crypto)
-- [Web3](#Web3)
+- [Web3](#Web-3)
 
 ## Capture The Flag
 
