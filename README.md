@@ -55,6 +55,7 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 
 *This is a list of pre-packaged applications and platforms with intentional misconfigurations and vulnerabilities present.*
 
+- [Damn Vulnerable Bank](https://github.com/rewanthtammana/Damn-Vulnerable-Bank) - A intentionally vulnerable Android banking application. 
 - [Damn Vulnerable Linux](https://www.vulnhub.com/series/damn-vulnerable-linux-dvl,1/) - A vulnerable Linux distribution designed to help sysadmins to better understand securing Linux.
 - [Damn Vulnerable Web App](https://dvwa.co.uk/) - A vulnerable PHP/MySQL web application designed to help web developers better understand securing web apps.
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) - An insecure web application written in Node.js that is vulnerable to the [OWASP Top 10](https://owasp.org/www-project-top-ten/) web application security risks and other real-world vulnerabilities.
