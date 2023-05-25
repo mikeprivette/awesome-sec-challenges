@@ -79,4 +79,4 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 
 | Name | Website | Twitter | LinkedIn |
 |---|---|---|---|
-| Mike Privette | [Return On Security](https://returnonsecurity.com) | [Twitter](https://twitter.com/mikepsecuritree) | [LinkedIn](https://www.linkedin.com/in/mikeprivette/ |
+| Mike Privette | [Return On Security](https://returnonsecurity.com) | [Twitter](https://twitter.com/mikepsecuritree) | [LinkedIn](https://www.linkedin.com/in/mikeprivette/) |
