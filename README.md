@@ -8,6 +8,7 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 
 ## Contents
 
+- [Created By](#created-by)
 - [Capture The Flag](#capture-the-flag)
   - [Cloud-Focused](#cloud-focused)
   - [CTF Platforms](#ctf-platforms)
@@ -15,6 +16,12 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
   - [Vulnerable Platforms](#vulnerable-platforms)
 - [Cryptography](#crypto)
 - [Web3](#Web-3)
+
+## Created By
+
+| Name | Website | Twitter | LinkedIn |
+|---|---|---|---|
+| Mike Privette | [Return On Security](https://returnonsecurity.com) | [Twitter](https://twitter.com/mikepsecuritree) | [LinkedIn](https://www.linkedin.com/in/mikeprivette/) |
 
 ## Capture The Flag
 
@@ -75,8 +82,3 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 - [DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs) - A site to learn about Web3 solidity security training on Foundry.
 - [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - A site that uses real past DeFi hack incidents to let you recreate how the hacks happened and how to secure them.
 
-## Created By
-
-| Name | Website | Twitter | LinkedIn |
-|---|---|---|---|
-| Mike Privette | [Return On Security](https://returnonsecurity.com) | [Twitter](https://twitter.com/mikepsecuritree) | [LinkedIn](https://www.linkedin.com/in/mikeprivette/) |
