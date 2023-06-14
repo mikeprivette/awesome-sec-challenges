@@ -21,7 +21,7 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 
 | Name | Website | Twitter | LinkedIn |
 |---|---|---|---|
-| Mike Privette | [Return On Security](https://returnonsecurity.com) | [Twitter](https://twitter.com/mikepsecuritree) | [LinkedIn](https://www.linkedin.com/in/mikeprivette/) |
+| Mike Privette | [Return On Security](https://www.returnonsecurity.com) | [Twitter](https://twitter.com/mikepsecuritree) | [LinkedIn](https://www.linkedin.com/in/mikeprivette/) |
 
 ## Capture The Flag
 
@@ -31,6 +31,7 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 
 *This is a list of CTF challenges that specifically focus on exploiting cloud services.*
 
+- [CloudFoxable](https://github.com/BishopFox/cloudfoxable) - An intentionally vulnerable AWS environment.
 - [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat) - A vulnerable by design AWS deployment tool.
 - [CONVEX](https://github.com/Azure/CONVEX) - An open-source CTF platform that lets you spin up CTF events in your Microsoft Azure environment.
 - [Damn Vulnerable Cloud Application](https://github.com/m6a-UdS/dvca) - an intentionally vulnerable cloud application to teach privilege escalation on Amazon Web Services (AWS).
@@ -40,7 +41,7 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 - [IAM Vulnerable](https://github.com/BishopFox/iam-vulnerable) - Use Terraform to deploy IAM resources to learn how to identify and exploit vulnerable IAM configurations.
 - [Lambhack](https://github.com/wickett/lambhack) - A vulnerable serverless Amazon Web Services (AWS) lambda application.
 - [S3 CTF Challenges](https://n0j.github.io/2017/10/02/aws-s3-ctf.html) - A series of challenges focusing on Amazon Web Services (AWS) S3 misconfigurations.
-- [ServerlessGoat](https://github.com/OWASP/Serverless-Goat) - An Amazon Web Services (AWS) severless application that demonstrates common serverless security flaws.
+- [ServerlessGoat](https://github.com/OWASP/Serverless-Goat) - An Amazon Web Services (AWS) serverless application that demonstrates common serverless security flaws.
 - [Thunder CTF](https://thunder-ctf.cloud/) - A CTF site based on attacking vulnerable cloud projects on Google Cloud Platform (GCP).
 
 ### CTF Platforms
@@ -63,7 +64,7 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 *This is a list of pre-packaged applications and platforms with intentional misconfigurations and vulnerabilities present.*
 
 - [Damn Vulnerable Bank](https://github.com/rewanthtammana/Damn-Vulnerable-Bank) - A intentionally vulnerable Android banking application. 
-- [Damn Vulnerable Linux](https://www.vulnhub.com/series/damn-vulnerable-linux-dvl,1/) - A vulnerable Linux distribution designed to help sysadmins to better understand securing Linux.
+- [Damn Vulnerable Linux](https://www.vulnhub.com/series/damn-vulnerable-linux-dvl,1/) - A vulnerable Linux distribution designed to help sysadmins to better understand how to secure Linux.
 - [Damn Vulnerable Web App](https://dvwa.co.uk/) - A vulnerable PHP/MySQL web application designed to help web developers better understand securing web apps.
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) - An insecure web application written in Node.js that is vulnerable to the [OWASP Top 10](https://owasp.org/www-project-top-ten/) web application security risks and other real-world vulnerabilities.
 
