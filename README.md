@@ -22,7 +22,7 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 
 | Name | Website | Twitter | LinkedIn |
 |---|---|---|---|
-| Mike Privette | [Return On Security](https://www.returnonsecurity.com) | [Twitter](https://twitter.com/mikepsecuritree) | [LinkedIn](https://www.linkedin.com/in/mikeprivette/) |
+| Mike Privette | [Return On Security](https://www.returnonsecurity.com) | [Twitter](https://twitter.com/mikepsecuritee) | [LinkedIn](https://www.linkedin.com/in/mikeprivette/) |
 
 ## Capture The Flag
 
