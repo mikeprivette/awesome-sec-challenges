@@ -68,6 +68,12 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 - [Damn Vulnerable Web App](https://dvwa.co.uk/) - A vulnerable PHP/MySQL web application designed to help web developers better understand securing web apps.
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) - An insecure web application written in Node.js that is vulnerable to the [OWASP Top 10](https://owasp.org/www-project-top-ten/) web application security risks and other real-world vulnerabilities.
 
+### Beginner/Introductory Education
+
+*This is a list of sites dedicated to beginner focused education, such as grade school level challenges.*
+
+- [Cyber Start](https://cyberstart.com/) - High School level introductory hacking courses.
+
 ## Crypto
 
 *This is a list of challenges that teach you about cryptography, cryptosystems, and breaking widely used encryption schemes which are sometimes improperly implemented.*
