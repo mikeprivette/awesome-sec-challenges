@@ -32,8 +32,10 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 
 *This is a list of CTF challenges that specifically focus on exploiting cloud services.*
 
+- [The Big IAM Challenge by Wiz](https://bigiamchallenge.com/challenge/1) - A hosted IAM based CTF 
 - [CloudFoxable](https://github.com/BishopFox/cloudfoxable) - An intentionally vulnerable Amazon Web Services (AWS) environment.
 - [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat) - A vulnerable by design Amazon Web Services (AWS) deployment tool.
+- [CloudSec Tidbits](https://github.com/doyensec/cloudsec-tidbits/) - Infrastructure as Code (IaC) laboratory reproducing interesting pentest findings by DoyenSec.
 - [CONVEX](https://github.com/Azure/CONVEX) - An open-source CTF platform that lets you spin up CTF events in your Microsoft Azure environment.
 - [Damn Vulnerable Cloud Application](https://github.com/m6a-UdS/dvca) - an intentionally vulnerable cloud application to teach privilege escalation on Amazon Web Services (AWS).
 - [GCP Goat](https://gcpgoat.joshuajebaraj.com/index.html) - An intentionally vulnerable GCP environment to learn and practice GCP security.
