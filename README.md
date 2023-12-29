@@ -14,7 +14,7 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
   - [CTF Platforms](#ctf-platforms)
   - [Vulnerable Platforms](#vulnerable-platforms)
   - [Introductory Education](#Introductory-Education)
-- [Cryptography](#crypto)
+- [Cryptography](#cryptography)
 - [Web3](#Web-3)
 
 ## Created By
@@ -71,7 +71,7 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 
 - [Cyber Start](https://cyberstart.com/) - High School level introductory hacking courses.
 
-## Crypto
+## Cryptography
 
 *This is a list of challenges that teach you about cryptography, cryptosystems, and breaking widely used encryption schemes which are sometimes improperly implemented.*
 
