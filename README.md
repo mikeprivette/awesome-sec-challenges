@@ -12,7 +12,6 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 - [Capture The Flag](#capture-the-flag)
   - [Cloud-Focused](#cloud-focused)
   - [CTF Platforms](#ctf-platforms)
-  - [Traditional](#traditional)
   - [Vulnerable Platforms](#vulnerable-platforms)
   - [Introductory Education](#Introductory-Education)
 - [Cryptography](#crypto)
