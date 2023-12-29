@@ -32,7 +32,6 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 
 *This is a list of CTF challenges that specifically focus on exploiting cloud services.*
 
-- [The Big IAM Challenge by Wiz](https://bigiamchallenge.com/challenge/1) - A hosted IAM based CTF 
 - [CloudFoxable](https://github.com/BishopFox/cloudfoxable) - An intentionally vulnerable Amazon Web Services (AWS) environment.
 - [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat) - A vulnerable by design Amazon Web Services (AWS) deployment tool.
 - [CloudSec Tidbits](https://github.com/doyensec/cloudsec-tidbits/) - Infrastructure as Code (IaC) laboratory reproducing interesting pentest findings by DoyenSec.
@@ -45,22 +44,18 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 - [Lambhack](https://github.com/wickett/lambhack) - A vulnerable serverless Amazon Web Services (AWS) lambda application.
 - [S3 CTF Challenges](https://n0j.github.io/2017/10/02/aws-s3-ctf.html) - A series of challenges focusing on Amazon Web Services (AWS) S3 misconfigurations.
 - [ServerlessGoat](https://github.com/OWASP/Serverless-Goat) - An Amazon Web Services (AWS) serverless application that demonstrates common serverless security flaws.
+- [The Big IAM Challenge by Wiz](https://bigiamchallenge.com/challenge/1) - A hosted Identity and Access Management (IAM) based CTF.
 - [Thunder CTF](https://thunder-ctf.cloud/) - A CTF site based on attacking vulnerable cloud projects on Google Cloud Platform (GCP).
 
 ### CTF Platforms
 
-*This is a list of platforms that let you organize, host, and participate in competitive CTF events or platforms that let you do gamified security challenges.*
+*This is a list of platforms that let you organize, host, and participate in competitive CTF events or platforms that let you do gamified security challenges, and a list of traditional CTF challenges that leverage mostly SSH or VPN sessions.*
 
 - [Facebook CTF](https://github.com/facebookarchive/fbctf) - A CTF platform by Facebook to host Jeopardy and “King of the Hill” style Capture the Flag competitions.
 - [HackTheBox](https://www.hackthebox.eu/) - A CTF site to work on your pentesting skills.
-- [TryHackMe](https://tryhackme.com/) - An online CTF platform that teaches you about hacking and pentesting by way of gamified challenges.
-
-### Traditional
-
-*This is a list of traditional CTF challenges that leverage mostly SSH or VPN sessions to play.*
-
 - [HackThisSite](https://www.hackthissite.org/) - A CTF site to practice your ethical hacking skills.
 - [OverTheWire](https://overthewire.org/wargames/) - A series of CTFs to practice security concepts in the form of fun-filled games.
+- [TryHackMe](https://tryhackme.com/) - An online CTF platform that teaches you about hacking and pentesting by way of gamified challenges.
 
 ### Vulnerable Platforms
 
@@ -73,7 +68,7 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 
 ### Introductory Education
 
-*This is a list of sites dedicated to beginner focused education, such as grade school level challenges.*
+*This is a list of sites dedicated to beginner-focused education, such as grade school-level challenges.*
 
 - [Cyber Start](https://cyberstart.com/) - High School level introductory hacking courses.
 
