@@ -10,6 +10,7 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 
 - [Created By](#created-by)
 - [Capture The Flag](#capture-the-flag)
+  - [AI/ML CTFs](#aiml-ctfs)
   - [Cloud-Focused](#cloud-focused)
   - [CTF Platforms](#ctf-platforms)
   - [Vulnerable Platforms](#vulnerable-platforms)
@@ -27,6 +28,12 @@ If you'd like to contribute, please see the [contribution guidelines](contributi
 
 *This is a list of [Capture The Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security) (CTF) challenges and websites.*
 
+### AI/ML CTFs
+
+*This is a list of Artificial Intelligence (AI) and Machine Learning (ML) CTF challenges.*
+
+- [Machine Learning CTF Challenges](https://github.com/alexdevassy/Machine_Learning_CTF_Challenges) - A series of CTF challenges to help you understand how to secure AI and ML applications and infrastructure.
+- 
 ### Cloud-Focused
 
 *This is a list of CTF challenges that specifically focus on exploiting cloud services.*
